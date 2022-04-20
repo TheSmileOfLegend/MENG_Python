@@ -1,4 +1,4 @@
-Important projects written in Python during Master study.
+Important coding projects written in Python during Master study.
 
 including topics of:
 - big data
